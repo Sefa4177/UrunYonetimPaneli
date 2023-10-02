@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FormUygulaması.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FormUygulaması.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\03c086dc-846d-4d53-8a90-b2e5843a871f.jpg",
+      "PackagePath": "staticwebassets\\Img\\03c086dc-846d-4d53-8a90-b2e5843a871f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\0c14e6c5-8282-4079-a3de-d76184c0ce1c.jpg",
+      "PackagePath": "staticwebassets\\Img\\0c14e6c5-8282-4079-a3de-d76184c0ce1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\176948b5-b82a-4b4f-9d67-d33900bad660.webp",
+      "PackagePath": "staticwebassets\\Img\\176948b5-b82a-4b4f-9d67-d33900bad660.webp"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\22544924-c0a6-4344-81f6-1e5cb96b3292.jpg",
+      "PackagePath": "staticwebassets\\Img\\22544924-c0a6-4344-81f6-1e5cb96b3292.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\36afa1a4-ee9d-49b3-9484-243d0304506a.jpg",
+      "PackagePath": "staticwebassets\\Img\\36afa1a4-ee9d-49b3-9484-243d0304506a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\3e283afc-9121-4754-adb2-5d404fdff110.txt",
+      "PackagePath": "staticwebassets\\Img\\3e283afc-9121-4754-adb2-5d404fdff110.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\624877b6-420d-44e7-84c4-e1218af9f2d3.jpg",
+      "PackagePath": "staticwebassets\\Img\\624877b6-420d-44e7-84c4-e1218af9f2d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\809c5bb8-2e81-4c80-b251-f530f15828cf.jpg",
+      "PackagePath": "staticwebassets\\Img\\809c5bb8-2e81-4c80-b251-f530f15828cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\avokado-yastık.jpg",
+      "PackagePath": "staticwebassets\\Img\\avokado-yastık.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\bambu-yatak.jpg",
+      "PackagePath": "staticwebassets\\Img\\bambu-yatak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\cadde-yıldız-köse.jpg",
+      "PackagePath": "staticwebassets\\Img\\cadde-yıldız-köse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\calisma-masa.jpg",
+      "PackagePath": "staticwebassets\\Img\\calisma-masa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\cc24a2cb-238b-4645-9d25-bfd958480858.jpg",
+      "PackagePath": "staticwebassets\\Img\\cc24a2cb-238b-4645-9d25-bfd958480858.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\d02d4440-471e-4738-a912-677e64adcb57.jpg",
+      "PackagePath": "staticwebassets\\Img\\d02d4440-471e-4738-a912-677e64adcb57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\d4d30615-5508-4512-93d8-d54928ff6791.txt",
+      "PackagePath": "staticwebassets\\Img\\d4d30615-5508-4512-93d8-d54928ff6791.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\daa4cf0f-9ac8-4b20-a739-9b20ce3e9172.jpg",
+      "PackagePath": "staticwebassets\\Img\\daa4cf0f-9ac8-4b20-a739-9b20ce3e9172.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\grundig-43inc.jpg",
+      "PackagePath": "staticwebassets\\Img\\grundig-43inc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\huawei-nova-9.jpg",
+      "PackagePath": "staticwebassets\\Img\\huawei-nova-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\huawei-nova-y91.jpg",
+      "PackagePath": "staticwebassets\\Img\\huawei-nova-y91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\iphone-10.jpg",
+      "PackagePath": "staticwebassets\\Img\\iphone-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\iphone-11.jpg",
+      "PackagePath": "staticwebassets\\Img\\iphone-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\iphone-12.jpg",
+      "PackagePath": "staticwebassets\\Img\\iphone-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\iphone-13.jpg",
+      "PackagePath": "staticwebassets\\Img\\iphone-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\iphone-14.jpg",
+      "PackagePath": "staticwebassets\\Img\\iphone-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\iphone-15.jpg",
+      "PackagePath": "staticwebassets\\Img\\iphone-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\komfort-köse-koltuk-takım.jpg",
+      "PackagePath": "staticwebassets\\Img\\komfort-köse-koltuk-takım.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\köse-koltuk.jpg",
+      "PackagePath": "staticwebassets\\Img\\köse-koltuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\lg-50inc.jpg",
+      "PackagePath": "staticwebassets\\Img\\lg-50inc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\lg-55inc.jpg",
+      "PackagePath": "staticwebassets\\Img\\lg-55inc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\lg-65inc.jpg",
+      "PackagePath": "staticwebassets\\Img\\lg-65inc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\lüks-yatak.jpg",
+      "PackagePath": "staticwebassets\\Img\\lüks-yatak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\macbook-air.jpg",
+      "PackagePath": "staticwebassets\\Img\\macbook-air.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\macbook-pro.jpg",
+      "PackagePath": "staticwebassets\\Img\\macbook-pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\monster-abra-a5-v17.jpg",
+      "PackagePath": "staticwebassets\\Img\\monster-abra-a5-v17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\monster-tulpar-t7-v25.jpg",
+      "PackagePath": "staticwebassets\\Img\\monster-tulpar-t7-v25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\msı-gf63-thin-9sc.jpg",
+      "PackagePath": "staticwebassets\\Img\\msı-gf63-thin-9sc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\msı-prestige-14-evo.jpg",
+      "PackagePath": "staticwebassets\\Img\\msı-prestige-14-evo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\msı-tıtan-gt77.jpg",
+      "PackagePath": "staticwebassets\\Img\\msı-tıtan-gt77.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\mutfak-masa.jpg",
+      "PackagePath": "staticwebassets\\Img\\mutfak-masa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\mutfak-masa2.jpg",
+      "PackagePath": "staticwebassets\\Img\\mutfak-masa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-32.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-50.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-65.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-galaxy-a34.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-galaxy-a34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-galaxy-a72.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-galaxy-a72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-galaxy-m51.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-galaxy-m51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-galaxy-s22.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-galaxy-s22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\samsung-galaxy-z-fold3.jpg",
+      "PackagePath": "staticwebassets\\Img\\samsung-galaxy-z-fold3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\silikon-yastık.jpg",
+      "PackagePath": "staticwebassets\\Img\\silikon-yastık.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\sisme-yastık.jpg",
+      "PackagePath": "staticwebassets\\Img\\sisme-yastık.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\Img\\vestel-43f8500.jpg",
+      "PackagePath": "staticwebassets\\Img\\vestel-43f8500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sefa\\Desktop\\Form App\\UrunYonetimPaneli\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FormUygulaması.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FormUygulaması.props",
+      "PackagePath": "build\\FormUygulaması.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FormUygulaması.props",
+      "PackagePath": "buildMultiTargeting\\FormUygulaması.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FormUygulaması.props",
+      "PackagePath": "buildTransitive\\FormUygulaması.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
